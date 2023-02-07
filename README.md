@@ -2,9 +2,9 @@
 
 ## links to work:
 
-[Site](http://rearc.jasonkals.com)
-[Github](https://github.com/JasonKAls/rearc)
-[Docker Image](https://hub.docker.com/repository/docker/jasonkals/reacrquestdemo)
+* [Site](http://rearc.jasonkals.com)
+* [Github](https://github.com/JasonKAls/rearc)
+* [Docker Image](https://hub.docker.com/repository/docker/jasonkals/reacrquestdemo)
 
 ## Instructions
 
